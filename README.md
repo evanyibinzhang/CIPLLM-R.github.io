@@ -20,9 +20,9 @@
     <section id="members">
         <h2>Project Members</h2>
         <ul>
-            <li>Member 1</li>
-            <li>Member 2</li>
-            <!-- Add more members as needed -->
+            <li>XIA Rui</li>
+            <li>YIN Chenxi</li>
+            <li>ZHANG Yibin</li>
         </ul>
     </section>
 
