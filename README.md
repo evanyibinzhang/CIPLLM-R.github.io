@@ -1,51 +1,57 @@
 # CIPLLM-R.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Website</title>
-    <link rel="stylesheet" href="styles.css"> <!-- You can link to a CSS file for styling -->
+    <title>Project Name</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
+        <h1>Project Name</h1>
     </header>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Welcome to my personal website! Here you can learn more about me and my interests.</p>
+    <section id="overview">
+        <h2>Project Overview</h2>
+        <p>This section provides an overview of your project. Describe what the project is about, its goals, objectives, and any other relevant information.</p>
     </section>
 
-    <section id="portfolio">
-        <h2>Portfolio</h2>
-        <div class="project">
-            <h3>Project Name</h3>
-            <p>Description of the project goes here.</p>
-            <a href="#">View Project</a>
-        </div>
-        <!-- Add more projects as needed -->
+    <section id="members">
+        <h2>Project Members</h2>
+        <ul>
+            <li>Member 1</li>
+            <li>Member 2</li>
+            <!-- Add more members as needed -->
+        </ul>
+    </section>
+
+    <section id="timeline">
+        <h2>Project Timeline</h2>
+        <p>Describe the timeline of your project, including key milestones, deadlines, and progress updates.</p>
+    </section>
+
+    <section id="technologies">
+        <h2>Technologies Used</h2>
+        <ul>
+            <li>Technology 1</li>
+            <li>Technology 2</li>
+            <!-- Add more technologies as needed -->
+        </ul>
     </section>
 
     <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Feel free to reach out to me via email or connect with me on social media.</p>
+        <h2>Contact Information</h2>
+        <p>Provide contact information for inquiries or collaboration opportunities related to the project.</p>
         <ul>
             <li>Email: yourname@example.com</li>
-            <li>Twitter: <a href="https://twitter.com/yourtwitter">yourtwitter</a></li>
-            <!-- Add more contact information or social media links as needed -->
+            <li>GitHub: <a href="https://github.com/yourgithub">yourgithub</a></li>
+            <!-- Add more contact information as needed -->
         </ul>
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Project Name. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
